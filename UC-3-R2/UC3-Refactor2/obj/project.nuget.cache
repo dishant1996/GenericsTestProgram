@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VsScJWNY9KIxgqe5h8+3NeUHGiulP47CrtJiBXyo3OUq1ChFN058hQyQ0TiolAj5xDqUpeF0rq6oa22KoprwyA==",
+  "success": true,
+  "projectFilePath": "E:\\COURSE BL\\ass 13\\assignment13-master\\UC-3-R2\\UC3-Refactor2\\UC3-Refactor2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
