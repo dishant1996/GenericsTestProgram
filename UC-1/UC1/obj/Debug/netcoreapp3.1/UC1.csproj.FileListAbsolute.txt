@@ -1,0 +1,28 @@
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.exe
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.deps.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.genruntimeconfig.cache
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.exe
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.deps.json
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.json
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.dev.json
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.dll
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\bin\Debug\netcoreapp3.1\UC1.pdb
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.AssemblyReference.cache
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfoInputs.cache
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfo.cs
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.CoreCompileInputs.cache
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.dll
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.pdb
+E:\COURSE BL\ass 13\assignment13-master\UC1\UC1\obj\Debug\netcoreapp3.1\UC1.genruntimeconfig.cache

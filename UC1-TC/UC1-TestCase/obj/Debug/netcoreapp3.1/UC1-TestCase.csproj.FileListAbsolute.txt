@@ -1,0 +1,14 @@
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\bin\Debug\netcoreapp3.1\UC1-TestCase.exe
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\bin\Debug\netcoreapp3.1\UC1-TestCase.deps.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\bin\Debug\netcoreapp3.1\UC1-TestCase.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\bin\Debug\netcoreapp3.1\UC1-TestCase.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\bin\Debug\netcoreapp3.1\UC1-TestCase.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\bin\Debug\netcoreapp3.1\UC1-TestCase.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\assignment13\UC1-TestCase\UC1-TestCase\obj\Debug\netcoreapp3.1\UC1-TestCase.genruntimeconfig.cache
